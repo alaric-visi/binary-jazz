@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Create a Random Music Genre</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="styles.css">
+  <script src="spring.js" defer></script>
+  <script src="binary-jazz.js" defer></script>
+</head>
+<body>
+  <main class="content">
+    <h1>Create a Random Music Genre</h1>
+    <div id="genre-card" class="animate">
+      <span id="genre-text">Loading…</span>
+    </div>
+    <div class="spring-wrapper">
+      <button id="generate-btn">Generate</button>
+      <svg class="spring-svg" aria-hidden="true">
+        <path id="spring-path"></path>
+      </svg>
+    </div>
+    <p style="margin-top:40px">
+      Built on the <a style="color:yellow" href="https://binaryjazz.us/genrenator-api/" target="_blank" rel="noopener">BinaryJazz API</a> ♥
+    </p>
+  </main>
+</body>
+</html>
