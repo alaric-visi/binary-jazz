@@ -6,3 +6,5 @@ https://github.com/user-attachments/assets/9b41ad38-2e20-4fe2-a38f-ed42a59dd900
 See:
 - https://mikehiggins.me.uk/posts/binary-jazz
 - https://binaryjazz.us/genrenator-api/
+
+![binary-jazz](https://github.com/user-attachments/assets/07859777-b750-4213-88c9-5dcfc4c95e6c)
